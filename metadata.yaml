@@ -1,0 +1,29 @@
+_repo: Plattdeutsche-Briefe-Erz-hlungen-und-Gedichte--13-mit-besonderer-R-cksicht-auf-Sprichw-rter-u__44784
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44784-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lyra, F. W. (Friedrich Wilhelm)
+    alias: Lyra, Friedrich Wilhelm
+    birthdate: 1794
+    deathdate: 1848
+    gutenberg_agent_id: '42920'
+    url: http://www.gutenberg.org/2009/agents/42920
+description: ''
+gutenberg_issued: '2014-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44784'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Low German literature'
+- !lcc 'PT'
+- !lcsh 'Low German literature -- Germany -- Osnabrück'
+title: "Plattdeutsche Briefe, Erzählungen und Gedichte\r\nmit besonderer Rücksicht\
+  \ auf Sprichwörter und eigenthümliche Redensarten des Landvolks in Westphalen"
+url: http://www.gutenberg.org/ebooks/44784
