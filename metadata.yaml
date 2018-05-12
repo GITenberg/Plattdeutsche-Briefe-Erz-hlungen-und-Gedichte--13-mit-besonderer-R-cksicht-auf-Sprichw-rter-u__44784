@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42920'
     url: http://www.gutenberg.org/2009/agents/42920
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44784#Plattdeutsche-Briefe-Erz-hlungen-und-Gedichte--13-mit-besonderer-R-cksicht-auf-Sprichw-rter-u_
 gutenberg_issued: '2014-01-28'
 gutenberg_type: Text
 identifiers:
